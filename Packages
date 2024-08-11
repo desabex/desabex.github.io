@@ -1,0 +1,1389 @@
+Package: 0xcc.woodfairy.koi
+Version: 1.1.7-ok15
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.4)
+Filename: debs/0xcc.woodfairy.koi_1.1.7-ok15_iphoneos-arm.deb
+Size: 1041120
+MD5sum: 859c383cf209851e09625f9bf8676f77
+SHA1: 5a2495d1c0d405374139b47186406f5aa964472e
+SHA256: 855f6d51a44c4639fb6579d7f3544f2affc151d7210a26aad3e24814264550e4
+Section: iOS 15 Patches
+Description: Colourise the force touch menu background based on the app icon colour
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/Koi/index.html
+Icon: https://paisseon.github.io/icons/Koi.png
+Name: Koi 🐠
+Sileodepiction: https://repo.litten.love/depictions/Koi/index.json
+
+Package: com.artikus.neonboard.bakera1n
+Version: 1.0.16-ok15
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG & Lessica
+Installed-Size: 1824
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.spark.snowboard, com.artikus.neonboard
+Replaces: com.spark.snowboard, com.artikus.neonboard
+Provides: com.spark.snowboard, com.artikus.neonboard
+Filename: debs/com.artikus.neonboard.bakera1n_1.0.16-ok15_iphoneos-arm.deb
+Size: 157816
+MD5sum: 8d59e5340d077e1dee53b5a1787f843a
+SHA1: 0e8b6f945199a6b5b7798f77d730d4f41259b0ca
+SHA256: cb62399f667061867fa41bb0bc36b6616be5367c367d640caef78a9c7d1eeaa1
+Section: iOS 15 Patches
+Description: A fully-featured lightweight theming engine for iOS 15 or above.
+Author: ArtikusHG
+Depiction: NeonBoard theming engine for bakera1n/palera1n jailbreak
+Name: NeonBoard
+
+Package: com.rpetrich.rocketbootstrap.bakera1n
+Version: 1.0.10-ok15
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate, bakera1n-repository
+Conflicts: com.rpetrich.rocketbootstrap
+Replaces: com.rpetrich.rocketbootstrap
+Provides: com.rpetrich.rocketbootstrap
+Filename: debs/com.rpetrich.rocketbootstrap.bakera1n_1.0.10-ok15_iphoneos-arm.deb
+Size: 23172
+MD5sum: e2a4eb4d9ee5977adb2baac6fed0d7e2
+SHA1: 43478f8278178a05fd278f1f50489c969d398afb
+SHA256: 7e3ac8199bbeb22da0d0bbac8a557ac8e257d8d8197e34883790aba1704966fe
+Section: iOS 15 Patches
+Description: RocketBootstrap fork for bakera1n
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Name: RocketBootstrap
+
+Package: emt.paisseon.apollocrack
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Filename: debs/emt.paisseon.apollocrack_1.2.2_iphoneos-arm.deb
+Size: 2994
+MD5sum: 8af3f8d0335338370588165979c0316b
+SHA1: 282e8b217b110fa6378414ff47108c2eb3ce87f0
+SHA256: bd79932f576b2709cb8aecdadc604e76d4917d51a0b62820195d700f038afada
+Section: Cracks
+Description: Apollo Ultra for free. Only works on Apollo >= 1.13
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=Apollo-Ultra-Crack&dev=Paisseon
+Name: Apollo Ultra Crack
+Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+
+Package: emt.paisseon.apollocrack
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 248
+Depends: firmware (>= 12.2)
+Filename: debs/emt.paisseon.apollocrack_1.3.3_iphoneos-arm.deb
+Size: 35234
+MD5sum: 82736dd5fd464de22eca3f8479426a59
+SHA1: 4a03830bf624225bafe35770ce5fcbe13178d7ba
+SHA256: 201283dfc657d0c983c85e2cd858ffc276ed34c4e19a719aced92f7aba6000ee
+Section: Cracks
+Description: Apollo Ultra for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=ApolloCrack&dev=Lilliana
+Name: Apollo Ultra Crack
+Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+
+Package: emt.paisseon.chocola
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 448
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver, com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_1.2.1_iphoneos-arm.deb
+Size: 67132
+MD5sum: b624f85a377289a8905a07fdaee4da52
+SHA1: 06f4649ff16388dcee3abaffc7f7d8f2fa9f13ce
+SHA256: 01d3768286a7777a7dad492ba811febe9436777c4d0a99e49f065628f2b031b1
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Chocola.json&name=Chocola&dev=Lilliana
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
+
+Package: emt.paisseon.chocola
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 492
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_1.2.3_iphoneos-arm.deb
+Size: 75788
+MD5sum: fa76458c26ca31a7575f8d9c50446dc0
+SHA1: ad8fc2420e7c0a1862e469581935353c4bd15b7f
+SHA256: d49d8247d47b99f0a9a20740f8614e151f16fc66d698516e2f483bc16ee5e0f7
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Chocola.json&name=Chocola&dev=Lilliana
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
+
+Package: emt.paisseon.erika
+Version: 1.10.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 540
+Depends: firmware (>= 12.2), firmware (>= 15.0) | lilliana.async
+Filename: debs/emt.paisseon.erika_1.10.3_iphoneos-arm.deb
+Size: 97744
+MD5sum: 74199eefedb3f0ea6716484673d89613
+SHA1: 5526d775a45710ca9473aa2b90448ca9511113f2
+SHA256: 9aa575fced4b419ac40e626a9fb76fc6b3fd05eefaa124570b69d5a1cc9c1715
+Section: Tweaks (Piracy)
+Description: Download paid tweaks for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Lilliana
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.11.0
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 292
+Depends: firmware (>= 13.0), firmware(>= 15.0) | lilliana.async
+Filename: debs/emt.paisseon.erika_1.11.0_iphoneos-arm.deb
+Size: 66422
+MD5sum: 1b096ed3e7f4ee08c6f3df637ca37dce
+SHA1: 596cb85bf4c42c54600c8cffa8edce748309a43d
+SHA256: 4f576e2899e13df038a7d5725377d75a99873ee6557dd959d80ad7840a90530f
+Section: Tweaks (Piracy)
+Description: Modern paid tweak downloader
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Lilliana
+Icon: https://paisseon.github.io/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.12.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 260
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.0_iphoneos-arm.deb
+Size: 58662
+MD5sum: 446e54f96bef7a2e4145d88a7313442f
+SHA1: a524c346b68cb307bca1d272c26f2b3b0e10c797
+SHA256: 49211d0d74c75accd2b0df4c86e5f5b5d671985d1d4335a00a668c7de1e62dcd
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.12.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 236
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.0_iphoneos-arm64.deb
+Size: 49680
+MD5sum: 7f1b48db96fac3475489bb2cab82ca5f
+SHA1: fbadb8cf3d81fd9a76805b6d101c2fbc97cad2b8
+SHA256: 7aa532c8954a68f38773da2347d59b414add8be505b8e0708c41131625ce164e
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.12.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 260
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.1_iphoneos-arm.deb
+Size: 58748
+MD5sum: 35d8b6aabaf59e6a111793e700761bb5
+SHA1: b3f71a67497378086a84b2ce8b668294dde2fcfe
+SHA256: 910fdaf2bc482bc505d426329db5f89e04d1988beb664b1d8394323a6102a55f
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.12.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 236
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.1_iphoneos-arm64.deb
+Size: 49904
+MD5sum: 5383f2d994e79272fa79c354caec3ca1
+SHA1: e010d04fc44a4a2c9bae9c5d695493d61d697028
+SHA256: 588e7a0131fb6154ffa5db65bc8e90a335df13607b1fb02bf7e56bc6dbe88712
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.0_iphoneos-arm64.deb
+Size: 90184
+MD5sum: 232cc0d1727eaa6e63ca6107f9a1b89d
+SHA1: b0b78378900e51242faee7e05632792d1c2f2740
+SHA256: 16ff23e57dad24620fe4a506addf8324bdd0de0b8d7d3779a0e73bcc965e56a6
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 392
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.0_iphoneos-arm.deb
+Size: 100552
+MD5sum: 4b47beb47664016185cb967bd5ada8cb
+SHA1: a60e2123547e169ed35f77aff0a3e976fdfbbf11
+SHA256: f4f6a01b507a716c5933febbcb81adf200b9193f046e6e0f1d2d12433602736c
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.1_iphoneos-arm64.deb
+Size: 102544
+MD5sum: 9045ba80dcbabdd36bb2c2096a0486d9
+SHA1: c3775fdb826f7935b05817ca88a7b7b20e9a6c06
+SHA256: caa17a54dee251897015cb0a803bc2f780be616e3b05c99fb24e2d561e36f74e
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.1_iphoneos-arm.deb
+Size: 102670
+MD5sum: eb2563eb82d65642ab0bc379696be317
+SHA1: feb110e8e44c1112e11834c075f189b767abbbbf
+SHA256: 0ae9098b70004f7202161963cda9f929bb3f8250cd08fa2f218a53fa48a2015e
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.2_iphoneos-arm64.deb
+Size: 91980
+MD5sum: c475f5210aec551ff4bb5859da8ed790
+SHA1: bb001a7be3ee14be09162b11deae383623de0f08
+SHA256: 53620a5a2409926c273bb70edee9cc330fb12a3646a7266d5eb38ab9edfedaee
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.2_iphoneos-arm.deb
+Size: 102896
+MD5sum: 50f704a58293a2346d9a458d707586cd
+SHA1: f79e08d2f2c6591191e34df44ce303bac7e466b3
+SHA256: ee6c4f58d389c324497f5cb93882134e9bb2da9ed3809764be2282d6b4daa58e
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.3_iphoneos-arm.deb
+Size: 103068
+MD5sum: 8c8425af57863f87a9e3c878e6b40ec3
+SHA1: 8fb27dd198d08951f9c11675263389fae9d7828e
+SHA256: 24d1a203897d240029c121204afffa1e78033f3737310b5999b0cf8f699af9c2
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.3_iphoneos-arm64.deb
+Size: 92162
+MD5sum: bab331e4f39bc5a4f9e753d01b87a877
+SHA1: 3b544573d3c9d037f4b97685ab7f1293fd1a9d45
+SHA256: 66270edb31c79f000d5059266f0d5ca53dac2ef989f878b40707a5f3318e21c0
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.icleaner
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 124
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.icleaner_0.0.1_iphoneos-arm.deb
+Size: 17052
+MD5sum: b274c433795f36dd9b61903ab1fd3d7f
+SHA1: bbe67713de6d99213e00b5faba7f96447ef2eb62
+SHA256: cb42d11f1f3e87ab3cb51dfd2e3414f26f8d4bad21918b341ab51372f96da804
+Section: Cracks
+Description: iCleaner Pro for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/icleaner-pro-crack.json&name=iCleaner-Pro-Crack&dev=Paisseon
+Name: iCleaner Pro Crack
+Sileodepiction: https://paisseon.github.io/depictions/icleaner-pro-crack.json
+
+Package: emt.paisseon.igloo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.satella
+Filename: debs/emt.paisseon.igloo_1.0_iphoneos-arm.deb
+Size: 3068
+MD5sum: 570a86ef9f2d4ab035bc3eb182ea9b1d
+SHA1: bc0dc9648093eca639c60d335d7ba0d937fc55e7
+SHA256: 66e9f4ef3c19c13e8c633b047460c312ddad3cf4d9d74b43044a71475c5cacf2
+Section: Cracks
+Description: Igloo pro for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/igloo-crack.json&name=Igloo-Crack&dev=Paisseon
+Name: Igloo Crack
+Sileodepiction: https://paisseon.github.io/depictions/igloo-crack.json
+
+Package: emt.paisseon.multitabcrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 124
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/emt.paisseon.multitabcrack_0.0.1_iphoneos-arm.deb
+Size: 25814
+MD5sum: 3f7cad05abe6c1717bf1e7daec98361b
+SHA1: 409db0a0cc40c27fc5dd66724cf55a105817c8e4
+SHA256: 23f6a9679084a6ce70782958cb395cba4f13a5c8ec152b2affd60b8418e7c844
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/MultiTabCrack.json&name=MultiTabCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/MultiTabCrack.png
+Name: MultiTab Crack
+Sileodepiction: https://paisseon.github.io/depictions/MultiTabCrack.json
+
+Package: emt.paisseon.multitabcrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/emt.paisseon.multitabcrack_0.0.1_iphoneos-arm64.deb
+Size: 22046
+MD5sum: 59c03986f6ef955630e7cad9611bafeb
+SHA1: b57359c75be901a27b587246f44fd66191507763
+SHA256: a80195cab7f8789b70d0913c5bd79fe5ca21df8d09dbfdfade4965636178c4a6
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/MultiTabCrack.json&name=MultiTabCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/MultiTabCrack.png
+Name: MultiTab Crack
+Sileodepiction: https://paisseon.github.io/depictions/MultiTabCrack.json
+
+Package: emt.paisseon.paibloxx
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 440
+Depends: firmware (>= 12.0), com.bingner.plutil|plutil, com.opa334.ccsupport, ws.hbang.common (>= 1.17), emt.paisseon.pseudo, bash
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_1.1.2_iphoneos-arm.deb
+Size: 89882
+MD5sum: 7538464393ed5232bb0a770edf13086b
+SHA1: 42a2a247681053e40e59b568ab1c190d27d2bd8b
+SHA256: 9a084fac08390922987894dc07419798f7b380ce9f40a9b469420408163b9e64
+Section: Tweaks
+Description: A safe ad-blocker for iOS
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
+
+Package: emt.paisseon.picsart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.picsart_1.0_iphoneos-arm.deb
+Size: 3804
+MD5sum: 6ebf2ef741b14943e23c38048756c3e3
+SHA1: f14a5319cd9b84edde549556d73eb25ac935345c
+SHA256: 5da3192489abdc002d5a1ccc4c6c2c10c5c4042119b3940e4a9132e175a3b226
+Section: Cracks
+Description: Picsart Gold for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/picsart-crack.json&name=Picsart-Crack&dev=Paisseon
+Name: Picsart Crack
+Sileodepiction: https://paisseon.github.io/depictions/picsart-crack.json
+
+Package: emt.paisseon.pseudo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: debs/emt.paisseon.pseudo_1.0.0_iphoneos-arm.deb
+Size: 8724
+MD5sum: dd35f6ba6530db8178de58994e446808
+SHA1: 902112235aefc4780c5e587cd7597509ce296af0
+SHA256: 0380cb72335bc37a1dd4eac2cb821c6d9b141d454a3519f517b0169c21a86759
+Section: System
+Description: Execute code as root without entering password
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Name: pseudo
+Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
+
+Package: emt.paisseon.pseudo
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: debs/emt.paisseon.pseudo_1.0.0_iphoneos-arm64.deb
+Size: 8780
+MD5sum: 77b50874db577d8f2114ce5c8c95bbb2
+SHA1: 8346dc0f0e6a2bf7a47bee81851eb0061690741f
+SHA256: 6092cbf77fadf7aabba7075c7ad612fd5c5ca94a822bd3d65a1f3bddff13dbca
+Section: System
+Description: Execute code as root without entering password
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Name: pseudo
+Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
+
+Package: emt.paisseon.revenuecrack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Filename: debs/emt.paisseon.revenuecrack_1.1_iphoneos-arm.deb
+Size: 3346
+MD5sum: 4fbfa54f2da36b52604b46cd1aa823ff
+SHA1: a4eac3e23000f3e1c1b507c6c9abcdc8e4211d4b
+SHA256: 4334e55a66f9331458258abe5ae82807c4277e0f098a3f449e27522fba442d73
+Section: Cracks
+Description: RevenueCat purchases for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/revenuecat-crack.json&name=RevenueCat-Crack&dev=Paisseon
+Name: RevenueCat Crack
+Sileodepiction: https://paisseon.github.io/depictions/revenuecat-crack.json
+
+Package: emt.paisseon.revenuecrack
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/emt.paisseon.revenuecrack_1.2.0_iphoneos-arm64.deb
+Size: 24254
+MD5sum: 72f1bdda8d2b824520fc81e911f57820
+SHA1: 2fe4a8869b5cc817dc5a0085f5d296a321107710
+SHA256: b64fc376a04a89146d83c18e62095e46d6436f36c761b5ab637d4307a0ce3754
+Section: Tweaks (Piracy)
+Description: Crack for some RevenueCat-based apps
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/RevenueCrack.json&name=RevenueCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/RevenueCrack.png
+Name: RevenueCat Crack
+Sileodepiction: https://paisseon.github.io/depictions/RevenueCrack.json
+
+Package: emt.paisseon.satella
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 412
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.5_iphoneos-arm.deb
+Size: 65334
+MD5sum: 184034689423b68624c9db4bb0bb3520
+SHA1: 4d00c57c00784b0378be9c7fe69c7d565e285909
+SHA256: 80248e666f545d8b2a7286244cb6e6bb1867514f1f63cfe77acf718ebf9d4cc1
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
+
+Package: emt.paisseon.satella
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 656
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.opa334.altlist
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.7_iphoneos-arm.deb
+Size: 111288
+MD5sum: 8668262a9ce177524f82eac081e7d52a
+SHA1: fcbcaf42a69f1c5b0836a9e7be0049cf15cb3543
+SHA256: 3f15bd5b19379cedc2ad188fe86fc3b16adc84603ab3a5f0fb2a4aa44417057d
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 684
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.7.1_iphoneos-arm.deb
+Size: 112460
+MD5sum: 002c6ff25e5ee13aa1603d8bbe77691a
+SHA1: d9240382f3a0f17367594fefc459a73228176e9a
+SHA256: 6c37aa047e867c82284bb4ba3b4e74b3bf5b6993f4ba8e614b7b966069fe00a4
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.8.0
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 520
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.8.0_iphoneos-arm.deb
+Size: 86326
+MD5sum: f3e79286e66d526d230e08eac80d948e
+SHA1: d5713a7a12c4eb60ef18a4464126c7a641173105
+SHA256: d6a8cf7e166558e30a1b9fabf882d7130d058a5f555f84d0b6d2110c007bee2b
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.8.0
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 520
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.8.0_iphoneos-arm64.deb
+Size: 86314
+MD5sum: 1e03f8be34a2ac30521b4a1bfd110628
+SHA1: 2b0a84eb5a06c287a868db26ac29b73c604c657a
+SHA256: b39c3e2867c7a17b84b57e0efd21e6903eb10183d4319765805192ed01023930
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.8.1_iphoneos-arm.deb
+Size: 98532
+MD5sum: bca6a351cedef1621aff1ebdb325e4a0
+SHA1: e0d92e74d409806f12bc483c8e3db745f149db89
+SHA256: 227716f7d5e902e1919812abd14321de1900639b34bfa51d8d417598ad7fa4de
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.8.1_iphoneos-arm64.deb
+Size: 95982
+MD5sum: e951c9c54b7b646d3c58aa3d2d3946a5
+SHA1: b1a2a6e9c10ac9cfb62c31a6bfccff90e96111f7
+SHA256: cadbe4d4bf8e4e9317d450792e0cf1548c288b9016dee3241e72ee4bdeedd20d
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.ultimateguitar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 148
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/emt.paisseon.ultimateguitar_0.0.1_iphoneos-arm.deb
+Size: 29156
+MD5sum: 6fa6c613ea1dea0ba78bdca61f78dcf9
+SHA1: 1334824bc1a084a197c757d1c3ab7e9a072a1300
+SHA256: b73eb0360ba5876412521db71de3e0816349310af19530f4bcd705c3abc4a135
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UltimateGuitarCrack.json&name=UltimateGuitarCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UltimateGuitarCrack.png
+Name: Ultimate Guitar Crack
+Sileodepiction: https://paisseon.github.io/depictions/UltimateGuitarCrack.json
+
+Package: emt.paisseon.ultimateguitar
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/emt.paisseon.ultimateguitar_0.0.1_iphoneos-arm64.deb
+Size: 25094
+MD5sum: 4bed3938b533cf6197724cfb258f0ba5
+SHA1: 044e705a023e8e1dc0cf3cd0e4c500077b4389e0
+SHA256: e200e0784c1b1cf458ec7dc88509a5b98db1cabd4a787ec5595a56fcc0c729ea
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UltimateGuitarCrack.json&name=UltimateGuitarCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UltimateGuitarCrack.png
+Name: Ultimate Guitar Crack
+Sileodepiction: https://paisseon.github.io/depictions/UltimateGuitarCrack.json
+
+Package: emt.paisseon.vivy
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Replaces: ai.paisseon.vivy
+Filename: debs/emt.paisseon.vivy_0.1b_iphoneos-arm.deb
+Size: 66530
+MD5sum: 649f9b6b9cdb5c85704a432f0caa835f
+SHA1: ab4d7221f89628bc90a0cb416dac4354f84c3980
+SHA256: 03cb7b3d6a90ff4e8e097ef6d47994c11bb48b98808617ed0c761f0fd0c9a378
+Section: Tweaks
+Priority: optional
+Description: Free and modern battery theming
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/vivy.json&name=Vivy&dev=Paisseon
+Icon: https://paisseon.github.io/icons/vivy.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/depictions/vivy.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 244
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.1_iphoneos-arm64.deb
+Size: 11056
+MD5sum: 60cf93eab4c0ff173ce7a2d9798bb453
+SHA1: f7fd47e1939d7d185583a2ad124d6949aa9347db
+SHA256: 4dda942157db72dc3032566f3d24c8c78ee780d3d53bb2a3a054a550192f22df
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 244
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.2_iphoneos-arm64.deb
+Size: 11054
+MD5sum: 5250f991c7ebf1417537291222d6b692
+SHA1: e6b9315abc81117469eb614aa4fcf85f3bcda9ba
+SHA256: ff9f81b13ee8e4282a702fdb6fe77e2fce3aadc4ce94ecfb5ff465a11ae050a1
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.3_iphoneos-arm64.deb
+Size: 69322
+MD5sum: f1754edb3ef03153258c65ba1081dbe9
+SHA1: 8405fdbe9bb3f7c357b1e701a22bcaa7a13e60c3
+SHA256: 3a7bb5a1df80fa656204d50510ad3eab61bdfb5f257776ea154d45738b1072fa
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.4_iphoneos-arm64.deb
+Size: 69926
+MD5sum: e5df49e89090bd118e4ffb0dcc373a12
+SHA1: 256f59fdbf89df66534f4c28caf0ffb2aed5d7e9
+SHA256: 64de2dc53da9f4c9220a3b35aec94d02ad21a3c52a8563a14a41f46dabe0ee5d
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 70006
+MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
+SHA1: cca516b753396474b40a2d686795801a528a107a
+SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: lilliana.accent
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 580
+Depends: mobilesubstrate, firmware (>= 12.2), ws.hbang.alderis (>= 1.2)
+Filename: debs/lilliana.accent_0.0.1_iphoneos-arm64.deb
+Size: 77648
+MD5sum: e6cdd13c0576557fd52d1b39e213bed8
+SHA1: 362efc9523e8ff5b153487f81e105f269b2611dd
+SHA256: 5c42c1304bb317008934e90c69caf59a2ee8c8f6c9a0f355288bdb17a2250fb4
+Section: Tweaks
+Description: Change accent colours systemwide
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Accent.json&name=Accent&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Accent.png
+Name: Accent Reborn
+Sileodepiction: https://paisseon.github.io/depictions/Accent.json
+
+Package: lilliana.accent
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 580
+Depends: mobilesubstrate, firmware (>= 12.2), ws.hbang.alderis (>= 1.2)
+Filename: debs/lilliana.accent_0.0.2_iphoneos-arm64.deb
+Size: 77752
+MD5sum: d161dc372e99ae6a18baded04fd9f701
+SHA1: 7f6f0f51f1db300afe9e43e19c9c9c42eb599642
+SHA256: 24bcbb0aa29274c99370c1fd3f6ba8972f222a587d0c196edca5ca52591ccb11
+Section: Tweaks
+Description: Change accent colours systemwide
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Accent.json&name=Accent&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Accent.png
+Name: Accent Reborn
+Sileodepiction: https://paisseon.github.io/depictions/Accent.json
+
+Package: lilliana.apphider
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 376
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.1_iphoneos-arm.deb
+Size: 63078
+MD5sum: 8f5563552cc2dcec04337056bb51478c
+SHA1: 5bf9d144571459c13f6304c1c95108f7335054bf
+SHA256: 093d2fed6b8d64287818572124a969565fab38179498e7943b90b69d1061ce73
+Section: Tweaks
+Description: Perfectly hide apps from your device
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Lilliana
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
+Package: lilliana.apphider
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 376
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.1_iphoneos-arm64.deb
+Size: 63110
+MD5sum: f8eee5df5c6a76ff9c973e795da76b10
+SHA1: 9b3b0ec58a1efad5364579848f2a5096e6936f1c
+SHA256: 7f9f1cbfe29f234f5bb97b66a9266c13bc8af4375d9c187f31693f26b3ad8a9d
+Section: Tweaks
+Description: Perfectly hide apps from your device
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Lilliana
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
+Package: lilliana.apphider
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 596
+Depends: mobilesubstrate, firmware (>= 12.2), com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.2_iphoneos-arm64.deb
+Size: 76876
+MD5sum: 87bb11c5013ba6353ed0c41dea3e2c40
+SHA1: b211ee1b47812d3f6257c00bd946af83652ce299
+SHA256: 2ea0cec64aa9864a6b6440a8dbfda58ef1487bed34c26d61499a4146ca72783e
+Section: Tweaks
+Description: Hide apps from your homescreen, library, spotlight
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Paisseon
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
+Package: lilliana.apphider
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 536
+Depends: mobilesubstrate, firmware (>= 12.2), com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.2_iphoneos-arm.deb
+Size: 86284
+MD5sum: 07f4607f5d3900e8130a274f6891328d
+SHA1: d277a4f5d8ad0a489d59e541ca63785439c2e078
+SHA256: fc6a47b85fa70343f502c8b74a79dbaf6925a22450cce7bf3e91254584320d1e
+Section: Tweaks
+Description: Hide apps from your homescreen, library, spotlight
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Paisseon
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
+Package: lilliana.async
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 504
+Depends: firmware (>= 13.0), firmware (<< 15.0)
+Filename: debs/lilliana.async_0.0.1_iphoneos-arm.deb
+Size: 114196
+MD5sum: ceb0cc9edde2bb4bdefcdf67fe5e6ace
+SHA1: 360f8e829ea4a5f359f2c59ef385f82d751a53a0
+SHA256: 284b16de59700ee10d9ad26a0008b8e0fc7ee27fff8fcecc10a0af6361cb4cab
+Section: System
+Description: Fix async not working in tweaks (iOS 13-14)
+Tag: role::developer
+Author: Lilliana
+Name: libasync
+
+Package: lilliana.filzacrack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 196
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.4_iphoneos-arm.deb
+Size: 28910
+MD5sum: 9c65588710811ad678b74982034f52be
+SHA1: ccd57e197aee3d00ebafc8a26f243c7ae1bc82ec
+SHA256: 879e0da02c9e866ec9833b5959c499d69c8aad6a83f2db5237558120859da545
+Section: Cracks
+Description: Filza and AppsManager activation for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Name: Filza Crack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.filzacrack
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.5_iphoneos-arm64.deb
+Size: 22008
+MD5sum: eb85a3cc6842aa22690eddd32f107831
+SHA1: 1a1015edae905670d0d5907909bc428626d9774a
+SHA256: ecb15d16a1300adc1d00f351abe586372b406ab46e2ab3ca9387360b1f26a57a
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.filzacrack
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.5_iphoneos-arm.deb
+Size: 21992
+MD5sum: dc73c4b158097250121aa1812f7c0cc4
+SHA1: b6482101b2532aa7b6ad3b2986797250ccfe67a8
+SHA256: cb54a437a711771712d3b0b939d8cd1e0b3e3bd974028cf50e1bfb64295ccabf
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.filzacrack
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 124
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm.deb
+Size: 26184
+MD5sum: 158dd35219eb888d96474acd89784146
+SHA1: e4126ed68eee4de49b194cdb9b4f56f3443169f0
+SHA256: e2f7d1ec3713fa3aa1c9fa77d59b39a1b1c99ec3286031713d59cf0033abf109
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.filzacrack
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Size: 21226
+MD5sum: 5aa5b7ed1cf33ef1907d903b72eeab10
+SHA1: aec744001cd888b9c3099415a67366dce26612f2
+SHA256: 345cb4ade708abb1598fb40af0facdb50e4c5f18ba6ecbfbf7c797b70f11c24a
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.ishtar
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 100
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.4_iphoneos-arm.deb
+Size: 15732
+MD5sum: b09dd4be2a54ee84b11e1f5ca76863a6
+SHA1: 0961dff832452d2d2e6aad403d04b7de76fa7d85
+SHA256: 6021c71f5d474b5fd6757861c6ec6ee34eb9e621dcfbe96172a0ef8778cc8677
+Section: Tweaks (Piracy)
+Description: Use VIP cheats with a free account
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ishtar.json&name=Ishtar&dev=Paisseon
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/ishtar.json
+
+Package: lilliana.ishtar
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 244
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader
+Filename: debs/lilliana.ishtar_0.0.6_iphoneos-arm.deb
+Size: 52314
+MD5sum: 7dbce6d47dc5541e0bf868e68d87d39c
+SHA1: 28e7b8993e30e70ba91d7eefe3260332c4efe942
+SHA256: 0c21439670c69efd6ad7813930c0d6d3bd7609b64424dcf2c1a6619b520bc7a8
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Lilliana
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
+Package: lilliana.ishtar
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 444
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.7_iphoneos-arm.deb
+Size: 81488
+MD5sum: 04d04d080bef75c2abb275fed08edce9
+SHA1: e9a3592b19890aee7f0222d3ae47adb647c7702a
+SHA256: 73f0026e122afb8c7bc521c82451e6a6d35bce560cd8caa6b7598910300af014
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Ishtar.png
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
+Package: lilliana.ishtar
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 456
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.7_iphoneos-arm64.deb
+Size: 73950
+MD5sum: 81f5a935ba912b93e3c271cb2109d9bd
+SHA1: 86b979e9d2537e790ea7b047690c33e530d4eaae
+SHA256: 7f5172b18b1dda641bad40c8fc9baa52d1f66cba848d193e55541dee42512056
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Ishtar.png
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
+Package: lilliana.peepreborn
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 472
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader
+Filename: debs/lilliana.peepreborn_0.0.2_iphoneos-arm.deb
+Size: 63382
+MD5sum: a722ad57c459802839cf575f8a5d94cc
+SHA1: cb3c82f7a62c0ecbb73c222e269050f8e877d9d0
+SHA256: b3be623271b5c3628397416e8c7ea8e4d05ccc64d4715f7ebdcb66d11adbd226
+Section: Tweaks
+Description: Show/hide your status bar with a tap
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Lilliana
+Icon: https://paisseon.github.io/PeepReborn.png
+Name: PeepReborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
+Package: lilliana.peepreborn
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 608
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: debs/lilliana.peepreborn_0.0.3_iphoneos-arm.deb
+Size: 80668
+MD5sum: e8fe6371f6716f986ea61c2daa836885
+SHA1: 68e704fc2ddf06e20f0dbced884be4ca91e914ec
+SHA256: a5473c303c75e804a6d39b0a661a289c70a2fce2fdb903109214f396848bc8d6
+Section: Tweaks
+Description: Hide your status bar with a tap
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Paisseon
+Icon: https://paisseon.github.io/icons/PeepReborn.png
+Name: Peep Reborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
+Package: lilliana.peepreborn
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 560
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: debs/lilliana.peepreborn_0.0.3_iphoneos-arm64.deb
+Size: 73682
+MD5sum: 31465093cfb5d0f54996a7b144cf2055
+SHA1: 432deea78568bf4090962c9f57a94a4ee6dc9d28
+SHA256: a5755b40c47b70eacf90881a50b775fe377046b318de64772263f4557fa73dfe
+Section: Tweaks
+Description: Hide your status bar with a tap
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Paisseon
+Icon: https://paisseon.github.io/icons/PeepReborn.png
+Name: Peep Reborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
+Package: lilliana.reverie
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 448
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver
+Filename: debs/lilliana.reverie_0.0.1_iphoneos-arm.deb
+Size: 64896
+MD5sum: 628fad9cb1b223c1cec5fdf0ba865dac
+SHA1: 24387336fd873a74d362f5bb410944fc31e63673
+SHA256: d07a6c581f0af2b2abeea32a815261b95524bdeeb05d5ce2937e4fcb996b8cf3
+Section: Tweaks
+Description: A tweak which is shaped like itself and is as broad as it hath breadth
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Lilliana
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
+Package: lilliana.reverie
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 488
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader
+Filename: debs/lilliana.reverie_0.0.2_iphoneos-arm.deb
+Size: 74818
+MD5sum: 74c253521ce75549fb2e6ea495e7f659
+SHA1: 432e92f6c4b42485a232f966b5b019bb628d92ec
+SHA256: b118728880218fa704f77ffc360fd032344105cb9814bbb9c35223b226d7444e
+Section: Tweaks
+Description: Hibernate when your battery gets low
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Lilliana
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
+Package: lilliana.reverie
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 788
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm64.deb
+Size: 94754
+MD5sum: 98ec1dc0a72a6efc5c763ffeb3ea0824
+SHA1: 9447b23a68eed5a62487a1cd3d578ddb3af9ffa5
+SHA256: 4719d1228ed47c179b49c2452f0d71840c00dad6ae8865e6d4e25739e8cc5f86
+Section: Tweaks
+Description: Let your iPhone dream
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
+Package: lilliana.reverie
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 788
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm.deb
+Size: 94716
+MD5sum: 54d66761af838afdbcf8fdff0ffdd31c
+SHA1: d5a58f61c4e21d4bcee52300ad1a1134624ea339
+SHA256: f37fd572ee06514a285315a5575e275089582c6301b0e3267f13cea2b11f3c01
+Section: Tweaks
+Description: Let your iPhone dream
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
+Package: lilliana.strongboxcrack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 196
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.strongboxcrack_0.0.2_iphoneos-arm.deb
+Size: 25908
+MD5sum: 72e4b85115cc2fc6f6408844864597eb
+SHA1: 137b7c01802ce8271b44a8ce9cb65c300ba7c605
+SHA256: 54cc7cd13e4a31de26391449f15490d25a15a8a8defbed0a9b5c95a4746a121f
+Section: Cracks
+Description: Strongbox Pro for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/StrongboxCrack.json&name=StrongboxCrack&dev=Lilliana
+Name: StrongboxCrack
+Sileodepiction: https://paisseon.github.io/depictions/StrongboxCrack.json
+
+Package: lilliana.strongboxcrack
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.strongboxcrack_0.0.3_iphoneos-arm64.deb
+Size: 21800
+MD5sum: 5930d459928b20b0fe1378c1f9a1e0b1
+SHA1: 83a12962c7ebfc21136f62bf36f2d6d6a874f4d6
+SHA256: f0243aa270e3bd5c7ca04ded85c1c5c5c793df4274c182a75eaf837c2434c665
+Section: Tweaks
+Description: Strongbox pro for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/StrongboxCrack.json&name=StrongboxCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/StrongboxCrack.png
+Name: Strongbox Crack
+Sileodepiction: https://paisseon.github.io/depictions/StrongboxCrack.json
+
+Package: lilliana.tako15fix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 168
+Depends: firmware (>= 15.0), com.xyaman.tako | xyz.cypwn.tako
+Filename: debs/lilliana.tako15fix_0.0.1_iphoneos-arm.deb
+Size: 2930
+MD5sum: 84000d70682845b047c7e67b9e586ea7
+SHA1: a4c24640c269850dff30f49e3205c99f42094e96
+SHA256: 7a26d5836b3d7010cdd12d8f81051736d7a292819683ed19147a25c4446cfff6
+Section: iOS 15 Patches
+Description: Make Tako work on iOS 15 and 16
+Author: Lilliana
+Name: Tako Fix
+
+Package: lilliana.ulyssescrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ulyssescrack_0.0.1_iphoneos-arm.deb
+Size: 26392
+MD5sum: 9439c9a82cf37843c01dbfb2c3ccf6c3
+SHA1: 418690cf260d54e9e19736815919af4b2fe6413f
+SHA256: a16415ee1f91ba7ecfc561904c505a28844bdf10ef321b1b35e8d86729028ab1
+Section: Cracks
+Description: Ulysses annual subscription for free (works on TF!)
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UlyssesCrack.json&name=UlyssesCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UlyssesCrack.png
+Name: Ulysses Crack
+Sileodepiction: https://paisseon.github.io/depictions/UlyssesCrack.json
+
+Package: lilliana.ulyssescrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ulyssescrack_0.0.1_iphoneos-arm64.deb
+Size: 22562
+MD5sum: 3ca187b72b1d528a773a5cdb5d067ccd
+SHA1: 2351b08681a63ca9c012b29adb5bb350430a2f57
+SHA256: ecf9ec0461a8b52250ae70adde69497d9299d4b7bda79ef4495466a8d4b034a0
+Section: Cracks
+Description: Ulysses annual subscription for free (works on TF!)
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UlyssesCrack.json&name=UlyssesCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UlyssesCrack.png
+Name: Ulysses Crack
+Sileodepiction: https://paisseon.github.io/depictions/UlyssesCrack.json
+

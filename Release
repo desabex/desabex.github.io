@@ -1,0 +1,18 @@
+Origin: Paisseon's Repo 
+Label: Paisseon's Repo
+Suite: stable
+Version: 1.0
+Codename: EMT
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: My personal repo for jailbreak tweaks
+MD5Sum:
+ 9ffe2c6639fe600506c99dae72d1e72a 56248 Packages
+ 9903b045c4179dc37d457471cc703113 10015 Packages.bz2
+ fdd172f70843a17b5ee58b8f8f65423c 11201 Packages.gz
+ 465104a94ba0f190651744db49f4f0c3 9796 Packages.zst
+SHA256:
+ d90b1c37418943ebfcf6fed61fdf260f6aa255403b51f7e5cbbb3a69930c8bef 56248 Packages
+ 7709a07f7d9642660a7891d291d917d49810c3462688b593fda84b848e308e6e 10015 Packages.bz2
+ 01d4657cfd53d17af454b4667a29a4a6c8d36b2cde2ae53dcdec1e0d2b9c8352 11201 Packages.gz
+ 228131b0dedfe39d4962fc0824eb5a384383e85b00ff18ec59276c66e6532268 9796 Packages.zst
