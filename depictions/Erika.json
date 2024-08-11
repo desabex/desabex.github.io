@@ -1,0 +1,450 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#CBA0DD",
+    "headerImage": "https://paisseon.github.io/images/LiaDive.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "The unofficial successor to CyDown, Erika lets you download paid tweaks for free in Sileo, Saily, and Zebra!"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Identical tweak database to CyDown \n- Includes a deb saver \n- Blocks the 'pirate repo bad' alert in Sileo \n- Pretty UI \n- Supports all modern package managers \n- Open source"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Instructions"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. Tap the icon at the top of the tweak you want to download \n2. Once the tweak has downloaded, tap on Get Zappy or go to /var/mobile/Media/Erika \n3. Install the deb"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Caveats"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- If a rootless deb doesn't exist on the server, it will download a rootful version as a fallback \n- 'Tweak not found on the server' is not a bug, it just means CyDown server doesn't yet have the tweak."
+                },
+                
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Paisseon"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.13.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13.0 - 16.5"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Source Code",
+                            "action": "https://github.com/Paisseon/Erika",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "CyPwn Discord",
+                            "action": "https://discord.gg/cypwn",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#CBA0DD",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.13.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a crash in Zebra \n- Mitigate file misidentification risks in Saily"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.13.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a bug with contribution, maybe for real this time?"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.13.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Improved deb saver and contribution \n- Add support for SingleKeycap's fork of Sileo"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.13.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added deb saver \n- Added piracy alert blocker for Sileo \n- Improved rootless support \n- Added contribution \n- Removed Installer 5 support because nobody uses it lol"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.12.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a bug in Saily (literally a commented-out line smh)"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.12.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Rootless support \n- About 80% rewritten"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.11.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Update to development branch of Jinx"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix Get Zappy not showing due to a bug in the download state"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix Erika label not showing on non-English versions of Saily \n- Replace ObjC with Swift + Assembly"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix permissions error"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- iOS 15 compatibility \n- Massive speed improvements \n- Fix \"Don't Get Zappy\" not working on Saily \n- Minor UI changes \n- Switch from Orion to Jinx \n- Preferences are gone now"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.9.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix preferences on A12+"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.9.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Snappier UI. You'll notice it. \n- Fix bug where the view wouldn't dismiss properly in Saily"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Remove now-unnecessary postinst"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Improve activation gesture in Saily"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix UI not displaying on latest Saily \n- Change deb file location to /var/mobile/Media/Erika"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a bug in the postinst which caused failed installations if not upgrading from a previous version"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add Installer 5 and Zebra compatibility \n- Add progress indicator"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.7.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add Shuffle compatibility to preferences"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.7.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Modernise deprecated code \n- Slight performance boost maybe \n- More reliability improvements for Sileo"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.6.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Reliability improvements in Sileo \n- Fix compatibility with Sileo 2.3 \n- Better code organisation"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.5.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add preferences"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.4.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Check for Erika folder before downloading \n- Fix weird corners in the UI"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.3.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Only open Filza if the download was successful \n- Minor code improvements"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix the Copy Meta label in Saily \n- Fix bad gesture recognisers in Sileo \n- Fix a crash in Sileo"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Change Sileo activation from tapping the Bundle ID at the bottom, to tapping to icon at the top"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.1.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Remove force unwraps (thanks to Lakr!) \n- Slight change to the UI"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial public release"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.5"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Change the Copy Meta label in Saily to Erika for clarity \n- Add error handling for r3"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add preliminary Saily compatibility \n- Add more informative errors"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Rewrite in Swift + SwiftUI"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a crash \n- Increase download speed by 6x"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial beta release"
+                }
+            ]
+        }
+    ]
+}
