@@ -1,7 +1,7 @@
 Package: 0xcc.woodfairy.koi
 Version: 1.1.7-ok15
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 1456
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.4)
 Filename: debs/0xcc.woodfairy.koi_1.1.7-ok15_iphoneos-arm.deb
@@ -13,7 +13,7 @@ Section: iOS 15 Patches
 Description: Colourise the force touch menu background based on the app icon colour
 Author: woodfairy & Litten
 Depiction: https://repo.litten.love/depictions/Koi/index.html
-Icon: https://paisseon.github.io/icons/Koi.png
+Icon: https://desabex.github.io/icons/Koi.png
 Name: Koi 🐠
 Sileodepiction: https://repo.litten.love/depictions/Koi/index.json
 
@@ -33,14 +33,14 @@ SHA1: 0e8b6f945199a6b5b7798f77d730d4f41259b0ca
 SHA256: cb62399f667061867fa41bb0bc36b6616be5367c367d640caef78a9c7d1eeaa1
 Section: iOS 15 Patches
 Description: A fully-featured lightweight theming engine for iOS 15 or above.
-Author: ArtikusHG
+Author: desabex
 Depiction: NeonBoard theming engine for bakera1n/palera1n jailbreak
 Name: NeonBoard
 
 Package: com.rpetrich.rocketbootstrap.bakera1n
 Version: 1.0.10-ok15
 Architecture: iphoneos-arm
-Maintainer: Lessica
+Maintainer: desabex
 Depends: firmware (>= 15.0), mobilesubstrate, bakera1n-repository
 Conflicts: com.rpetrich.rocketbootstrap
 Replaces: com.rpetrich.rocketbootstrap
@@ -53,14 +53,14 @@ SHA256: 7e3ac8199bbeb22da0d0bbac8a557ac8e257d8d8197e34883790aba1704966fe
 Section: iOS 15 Patches
 Description: RocketBootstrap fork for bakera1n
 Tag: purpose::extension, role::developer
-Author: Ryan Petrich
+Author: desabex
 Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Name: RocketBootstrap
 
 Package: emt.paisseon.apollocrack
 Version: 1.2.2
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 72
 Filename: debs/emt.paisseon.apollocrack_1.2.2_iphoneos-arm.deb
 Size: 2994
@@ -69,15 +69,15 @@ SHA1: 282e8b217b110fa6378414ff47108c2eb3ce87f0
 SHA256: bd79932f576b2709cb8aecdadc604e76d4917d51a0b62820195d700f038afada
 Section: Cracks
 Description: Apollo Ultra for free. Only works on Apollo >= 1.13
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=Apollo-Ultra-Crack&dev=Paisseon
 Name: Apollo Ultra Crack
-Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+Sileodepiction: https://desabex.github.io/depictions/apollo-ultra-crack.json
 
 Package: emt.paisseon.apollocrack
 Version: 1.3.3
 Architecture: iphoneos-arm
-Maintainer: Lilliana
+Maintainer: desabex
 Installed-Size: 248
 Depends: firmware (>= 12.2)
 Filename: debs/emt.paisseon.apollocrack_1.3.3_iphoneos-arm.deb
@@ -87,15 +87,15 @@ SHA1: 4a03830bf624225bafe35770ce5fcbe13178d7ba
 SHA256: 201283dfc657d0c983c85e2cd858ffc276ed34c4e19a719aced92f7aba6000ee
 Section: Cracks
 Description: Apollo Ultra for free
-Author: Lilliana
+Author: desabex
 Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=ApolloCrack&dev=Lilliana
 Name: Apollo Ultra Crack
-Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+Sileodepiction: https://desabex.github.io/depictions/apollo-ultra-crack.json
 
 Package: emt.paisseon.chocola
 Version: 1.2.1
 Architecture: iphoneos-arm
-Maintainer: Lilliana
+Maintainer: desabex
 Installed-Size: 448
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver, com.mrgcgamer.libgcuniversal
 Filename: debs/emt.paisseon.chocola_1.2.1_iphoneos-arm.deb
@@ -105,7 +105,7 @@ SHA1: 06f4649ff16388dcee3abaffc7f7d8f2fa9f13ce
 SHA256: 01d3768286a7777a7dad492ba811febe9436777c4d0a99e49f065628f2b031b1
 Section: Tweaks
 Description: Lightweight video wallpapers
-Author: Lilliana
+Author: desabex
 Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Chocola.json&name=Chocola&dev=Lilliana
 Name: Chocola
 Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
@@ -113,7 +113,7 @@ Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
 Package: emt.paisseon.chocola
 Version: 1.2.3
 Architecture: iphoneos-arm
-Maintainer: Lilliana
+Maintainer: desabex
 Installed-Size: 492
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: debs/emt.paisseon.chocola_1.2.3_iphoneos-arm.deb
@@ -123,15 +123,15 @@ SHA1: ad8fc2420e7c0a1862e469581935353c4bd15b7f
 SHA256: d49d8247d47b99f0a9a20740f8614e151f16fc66d698516e2f483bc16ee5e0f7
 Section: Tweaks
 Description: Lightweight video wallpapers
-Author: Lilliana
+Author: desabex
 Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Chocola.json&name=Chocola&dev=Lilliana
 Name: Chocola
-Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
+Sileodepiction: https://desabex.github.io/depictions/Chocola.json
 
 Package: emt.paisseon.erika
 Version: 1.10.3
 Architecture: iphoneos-arm
-Maintainer: Lilliana
+Maintainer: desabex
 Installed-Size: 540
 Depends: firmware (>= 12.2), firmware (>= 15.0) | lilliana.async
 Filename: debs/emt.paisseon.erika_1.10.3_iphoneos-arm.deb
@@ -141,16 +141,16 @@ SHA1: 5526d775a45710ca9473aa2b90448ca9511113f2
 SHA256: 9aa575fced4b419ac40e626a9fb76fc6b3fd05eefaa124570b69d5a1cc9c1715
 Section: Tweaks (Piracy)
 Description: Download paid tweaks for free
-Author: Lilliana
+Author: desabex
 Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Lilliana
-Icon: https://paisseon.github.io/icons/erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/erika.png
+Name: Legit Piracy Tweak 
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.11.0
 Architecture: iphoneos-arm
-Maintainer: Lilliana
+Maintainer: desabex
 Installed-Size: 292
 Depends: firmware (>= 13.0), firmware(>= 15.0) | lilliana.async
 Filename: debs/emt.paisseon.erika_1.11.0_iphoneos-arm.deb
@@ -160,16 +160,16 @@ SHA1: 596cb85bf4c42c54600c8cffa8edce748309a43d
 SHA256: 4f576e2899e13df038a7d5725377d75a99873ee6557dd959d80ad7840a90530f
 Section: Tweaks (Piracy)
 Description: Modern paid tweak downloader
-Author: Lilliana
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Lilliana
-Icon: https://paisseon.github.io/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.12.0
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 260
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.12.0_iphoneos-arm.deb
@@ -179,16 +179,16 @@ SHA1: a524c346b68cb307bca1d272c26f2b3b0e10c797
 SHA256: 49211d0d74c75accd2b0df4c86e5f5b5d671985d1d4335a00a668c7de1e62dcd
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.12.0
 Architecture: iphoneos-arm64
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 236
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.12.0_iphoneos-arm64.deb
@@ -198,16 +198,16 @@ SHA1: fbadb8cf3d81fd9a76805b6d101c2fbc97cad2b8
 SHA256: 7aa532c8954a68f38773da2347d59b414add8be505b8e0708c41131625ce164e
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.12.1
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 260
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.12.1_iphoneos-arm.deb
@@ -217,16 +217,16 @@ SHA1: b3f71a67497378086a84b2ce8b668294dde2fcfe
 SHA256: 910fdaf2bc482bc505d426329db5f89e04d1988beb664b1d8394323a6102a55f
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.12.1
 Architecture: iphoneos-arm64
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 236
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.12.1_iphoneos-arm64.deb
@@ -236,16 +236,16 @@ SHA1: e010d04fc44a4a2c9bae9c5d695493d61d697028
 SHA256: 588e7a0131fb6154ffa5db65bc8e90a335df13607b1fb02bf7e56bc6dbe88712
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.0
 Architecture: iphoneos-arm64
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 368
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.0_iphoneos-arm64.deb
@@ -255,16 +255,16 @@ SHA1: b0b78378900e51242faee7e05632792d1c2f2740
 SHA256: 16ff23e57dad24620fe4a506addf8324bdd0de0b8d7d3779a0e73bcc965e56a6
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.0
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 392
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.0_iphoneos-arm.deb
@@ -274,16 +274,16 @@ SHA1: a60e2123547e169ed35f77aff0a3e976fdfbbf11
 SHA256: f4f6a01b507a716c5933febbcb81adf200b9193f046e6e0f1d2d12433602736c
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.1
 Architecture: iphoneos-arm64
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 408
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.1_iphoneos-arm64.deb
@@ -293,16 +293,16 @@ SHA1: c3775fdb826f7935b05817ca88a7b7b20e9a6c06
 SHA256: caa17a54dee251897015cb0a803bc2f780be616e3b05c99fb24e2d561e36f74e
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.1
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 408
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.1_iphoneos-arm.deb
@@ -311,17 +311,17 @@ MD5sum: eb2563eb82d65642ab0bc379696be317
 SHA1: feb110e8e44c1112e11834c075f189b767abbbbf
 SHA256: 0ae9098b70004f7202161963cda9f929bb3f8250cd08fa2f218a53fa48a2015e
 Section: Tweaks (Piracy)
-Description: Piracy downloader for Sileo
-Author: Paisseon
+Description:Piracy downloader for Sileo
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.2
 Architecture: iphoneos-arm64
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 368
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.2_iphoneos-arm64.deb
@@ -331,16 +331,16 @@ SHA1: bb001a7be3ee14be09162b11deae383623de0f08
 SHA256: 53620a5a2409926c273bb70edee9cc330fb12a3646a7266d5eb38ab9edfedaee
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.2
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 408
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.2_iphoneos-arm.deb
@@ -350,16 +350,16 @@ SHA1: f79e08d2f2c6591191e34df44ce303bac7e466b3
 SHA256: ee6c4f58d389c324497f5cb93882134e9bb2da9ed3809764be2282d6b4daa58e
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.3
 Architecture: iphoneos-arm
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 408
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.3_iphoneos-arm.deb
@@ -369,16 +369,16 @@ SHA1: 8fb27dd198d08951f9c11675263389fae9d7828e
 SHA256: 24d1a203897d240029c121204afffa1e78033f3737310b5999b0cf8f699af9c2
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.13.3
 Architecture: iphoneos-arm64
-Maintainer: Paisseon
+Maintainer: desabex
 Installed-Size: 368
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: debs/emt.paisseon.erika_1.13.3_iphoneos-arm64.deb
@@ -388,11 +388,11 @@ SHA1: 3b544573d3c9d037f4b97685ab7f1293fd1a9d45
 SHA256: 66270edb31c79f000d5059266f0d5ca53dac2ef989f878b40707a5f3318e21c0
 Section: Tweaks (Piracy)
 Description: Piracy downloader for Sileo
-Author: Paisseon
+Author: desabex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Erika.png
-Name: Erika
-Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+Icon: https://desabex.github.io/icons/Erika.png
+Name: Legit Piracy Tweak
+Sileodepiction: https://desabex.github.io/depictions/Erika.json
 
 Package: emt.paisseon.icleaner
 Version: 0.0.1
